@@ -15,7 +15,7 @@ variable "instance_type" {
 
 variable "security_group" { 
     description = "Name of security group" 
-    default     = "dev-default-sg
+    default     = "dev-default-sg"
 
 " 
 }
